@@ -1,5 +1,5 @@
 ***<h1 align="center">Hi 👋, I'm Burak</h1>***
-***<h3 align="center">Android Developer</h3>***
+***<h3 align="center">Mobile Developer</h3>***
 
 - 🌱 ***I’m currently learning Android Java, Kotlin and Flutter Dart etc.***
 - 📫 ***How to reach me burakkarahan@outlook.com.tr***
@@ -14,7 +14,7 @@
 <a href="https://instagram.com/karahanbrk" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Burak karahan" height="30" width="30" /></a>
 </p>
 
-***<h3 align="left">Technologies:</h3>***
+***<h3 align="left">💻 Technologies:</h3>***
 <p align="left">
 <table>
   <tr>
@@ -50,7 +50,7 @@
 </table>
 </p>
 
-***<h3 align="left">Tools:</h3>***
+***<h3 align="left">🔨 Tools:</h3>***
 <p align="left">
     <table>
       <tr>
