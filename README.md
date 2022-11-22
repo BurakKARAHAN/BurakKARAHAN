@@ -1,4 +1,4 @@
-***<h1 align="center">Hi 👋, I'm Burak</h1>***
+***<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Burak</h1>***
 ***<h3 align="center">Mobile Developer</h3>***
 
 - 🌱 ***I’m currently learning Android Java, Kotlin and Flutter Dart etc.***
